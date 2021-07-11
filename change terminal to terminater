@@ -1,0 +1,1 @@
+mv /usr/bin/qterminal /usr/bin/qterminal1&& ln -s /usr/bin/terminator /usr/bin/qterminal (run with root user)
